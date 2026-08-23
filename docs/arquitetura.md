@@ -39,3 +39,7 @@ Addresses:  140.82.121.4
 
 ### Teste de Erro 404
 - `github.com/pagina-que-nao-existe` | Status: 404
+
+## Importância do HTTPS no Agendamento
+
+O formulário de agendamento da Clínica Vida+ precisa utilizar o protocolo HTTPS para garantir a segurança e a privacidade dos dados transmitidos na rede. O HTTPS utiliza criptografia (TLS/SSL), impedindo que dados sensíveis — como o **CPF do paciente**, dados bancários ou histórico de saúde — sejam interceptados ou lidos por terceiros em redes públicas. Além disso, o protocolo garante a autenticidade do servidor, confirmando ao usuário que ele está navegando no site real da clínica e não em uma cópia fraudulenta.
